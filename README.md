@@ -15,4 +15,7 @@ I am a computer science student majorly interested in `cyber security` and `low 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/react-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/rust-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg"/>
+
+# Posts
+
+- https://italoamaya.me/posts/learning_opengl/
