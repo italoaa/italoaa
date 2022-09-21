@@ -2,9 +2,9 @@
 #+Author: Italo Amaya
 I am a computer science student majorly interested in =cyber security= and =low level programing=. Currently I find a lot of joy programing and learning the language =rust= 🦀 but I have experience in more mainstream languages like =python= 🐍, =javascript/typescript= and =C=.
 * Languages and other tools
-
+At the moment I have experience with
 #+DOWNLOADED: screenshot @ 2022-09-21 21:11:09
-#+attr_org: :width 10px
+#+attr_org: :width 40px
 [[file:files/typescript-plain.svg]]
 [[file:files/bash-original.svg]]
 [[file:files/css3-plain.svg]]
