@@ -5,4 +5,16 @@ I am a computer science student majorly interested in =cyber security= and =low 
 
 #+DOWNLOADED: screenshot @ 2022-09-21 21:11:09
 #+attr_org: :width 300px
-[[file:files/rust.png]]
+[[file:files/typescript-plain.svg]]
+[[file:files/bash-original.svg]]
+[[file:files/css3-plain.svg]]
+[[file:files/git-original.svg]]
+[[file:files/html5-plain.svg]]
+[[file:files/javascript-plain.svg]]
+[[file:files/linux-original.svg]]
+[[file:files/list.txt]]
+[[file:files/nodejs-original.svg]]
+[[file:files/python-plain.svg]]
+[[file:files/react-original.svg]]
+[[file:files/rust-plain.svg]]
+[[file:files/typescript-plain.svg]]
