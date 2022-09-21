@@ -4,9 +4,9 @@ I am a computer science student majorly interested in `cyber security` and `low 
 
 # Languages and other tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg]]"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/bash-original.svg]]"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/css3-plain.svg]]"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/bash-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/css3-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/git-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/html5-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/javascript-plain.svg"/>
@@ -15,4 +15,4 @@ I am a computer science student majorly interested in `cyber security` and `low 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/react-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/rust-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg]]"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg"/>
