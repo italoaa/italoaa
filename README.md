@@ -1,5 +1,5 @@
 
-I am a computer science student majorly interested in `cyber security` and `low level programing`. Currently I find a lot of joy programing and learning the language `rust` 🦀 but I have experience in more mainstream languages like `python` 🐍, `javascript/typescript` and `C`.
+I am a computer science student majorly interested in `cyber security` and `low level programing`. Currently I find a lot of joy programing and learning the language `rust` 🦀 but I have experience in more mainstream languages like `python` 🐍, `javascript/typescript` and `C`. Also I am diving into programing graphics with `OpenGl`. I post some recipes and blogs on my website https://italoamaya.me
 
 
 # Languages and other tools
@@ -15,7 +15,3 @@ I am a computer science student majorly interested in `cyber security` and `low 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/python-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/react-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/rust-plain.svg"/>
-
-# Posts
-
-- https://italoamaya.me/posts/learning_opengl/
