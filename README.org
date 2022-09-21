@@ -1,6 +1,6 @@
 #+title: Italo Amaya 🖥
 #+Author: Italo Amaya
-I am a computer science student majorly interested in =cyber security= and =low level programing=. Currently I find a lot of joy programing and learning the language =rust= but I have experience in more mainstream languages like =python=, =javascript/typescript= and =C=.
+I am a computer science student majorly interested in =cyber security= and =low level programing=. Currently I find a lot of joy programing and learning the language =rust= 🦀 but I have experience in more mainstream languages like =python= 🐍, =javascript/typescript= and =C=.
 * Languages and other tools
 
 #+DOWNLOADED: screenshot @ 2022-09-21 21:11:09
