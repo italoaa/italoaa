@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @italoaa
-- 👀 I’m interested in Computer Science but mainly in Cyber Security
-- 🌱 I’m currently Currently studing in the Uk computer science
-- 📫 How to reach me Email : italoamaya@me.com
