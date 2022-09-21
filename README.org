@@ -4,7 +4,7 @@ I am a computer science student majorly interested in =cyber security= and =low 
 * Languages and other tools
 
 #+DOWNLOADED: screenshot @ 2022-09-21 21:11:09
-#+attr_html: :width 10px
+#+attr_org: :width 10px
 [[file:files/typescript-plain.svg]]
 [[file:files/bash-original.svg]]
 [[file:files/css3-plain.svg]]
