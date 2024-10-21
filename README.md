@@ -1,17 +1,12 @@
+Hello there 👋
 
-I am a computer science student with a focus on Aritficial Intelligence, also very interested in `cyber security` and `low level programing`. Currently I find a lot of joy leveraging nix and nixos to build devops pipelines. I have experience in more mainstream languages like `python` 🐍, `javascript/typescript` and `C/C++`.
+I'm Italo, an AI student/researcher passionate about using AI to enhance cybersecurity. I'm particularly interested in steganalysis, and currently developing a CNN-based steganalysis tool with the goal of achieving state-of-the-art accuracy in detecting hidden messages in images. This project explores the use of Deep Learning models, with the potential to significantly improve digital forensics, malawre detection and security for all!  I aspire to become a Machine Learning Engineer, developing innovative solutions like AI-powered threat detection systems to make the digital world a safer place.
 
+My enthusiasm for this field drives me to constantly learn and explore new concepts. Some of my proud projects are
+- C based Decision tree Library [Decision Sprout](https://github.com/italoaa/DecisionSprout)
+- Encryption application for everyone [Seguro](https://github.com/italoaa/seguro)
 
-# Languages and other tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/typescript-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/bash-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/css3-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/git-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/html5-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/javascript-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/linux-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/nodejs-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/python-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/react-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./files/rust-plain.svg"/>
+## Contact me ✉️
+- [Curriculum](https://rxresu.me/italoamaya03/italo)
+- [LinkedIn](https://www.linkedin.com/in/italoamaya03/)
+- [LeetCode](https://leetcode.com/u/italoamaya/)
