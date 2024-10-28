@@ -10,4 +10,5 @@ My enthusiasm for this field drives me to constantly learn and explore new conce
 - [Curriculum](https://rxresu.me/italoamaya03/italo)
 - [LinkedIn](https://www.linkedin.com/in/italoamaya03/)
 - [LeetCode](https://leetcode.com/u/italoamaya/)
-- [Personal Website(https://italoaa.github.io)
+- [Personal Website](https://italoaa.github.io)
+
